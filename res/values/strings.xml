@@ -1,0 +1,32 @@
+<resources>
+
+    <string name="app_name">Nur</string>
+    <string name="home">ئۆي-مۈلۈك</string>
+    <string name="news">خەۋەرلەر</string>
+    <string name="settings">تەڭشەك</string>
+    <string name="detail">تەپسىلاتى</string>
+    <string name="cacheclear">غەملەك تازىلاش</string>
+    <string name="version">يېڭى نەشىرنى تەكشۈرۈش</string>
+    <string name="aboutapp">ئەپ ھەققىدە</string>
+    <string name="categorys">تۈرلەر</string>
+    <string name="aboutcompany">شىركەت ھەققىدە</string>
+    
+    <string name="alert">ئەسكەرتىش</string>
+    <string name="All">بارلىق مەزمۇن</string>
+    <string name="cancel">بولدى قىلاي</string>
+    <string name="now_update">ھازىرلا يېڭىلاي</string>
+    <string name="NoNewVersion">يىڭى نەشىرى تېخى چىقماپتۇ.</string>
+    
+    <string name="IClear">تازىلاي</string>
+    <string name="ClearInfo">تور ئېقىمىنى تىجەش ئۈچۈن رەسىملەر تېلفوندا غەملەك قىلىپ ساقلىنىدۇ ، غەملەكتىكى ساقلانغان مەزمۇنلارنى راستىنلا تازىلەمسىز ؟</string>
+    
+    <string name="InternetError">توردىن ئوقۇش مەغلۇب بولدى ، بىردەم تۇرۇپ قايتا سىناڭ .</string>
+    <string name="ChekingWait">تەكشۈرۈۋاتىدۇ ، سەل ساقلاڭ </string>
+   
+    
+    <string name="loading">چۈشۈۋاتىدۇ ، تەخىر قىلىڭ .</string>
+	<string name="errorInfo">تورغا ئۇلىنىش مەغلۇب بولدى ، ئېراننى چېكىپ قايتا سىناڭ .</string>
+	<string name="NoData">مەزمۇن يوق ئىكەن .</string>
+	<string name="ErrorInfoToast">توردىن ئوقۇش مەغلۇب بولدى ، قايتا سىناڭ !</string>
+	<string name="SplashVersion">Version : 1.0</string>
+</resources>

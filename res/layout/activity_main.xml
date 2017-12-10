@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <FrameLayout
+        android:id="@+id/Content"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#cdcdcd" />
+
+    <LinearLayout
+        android:id="@+id/TabsView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#f9f9f9"
+        android:orientation="horizontal" >
+
+        <com.algha.nur.widget.UyghurTextView
+            android:id="@+id/settings"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center|center"
+            android:text="@string/settings"
+            android:textColor="#757575"
+            android:textSize="14sp"
+            android:tag="2"
+             >
+        </com.algha.nur.widget.UyghurTextView>
+
+        <com.algha.nur.widget.UyghurTextView
+            android:id="@+id/news"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center|center"
+            android:text="@string/news"
+            android:textColor="#757575"
+            android:textSize="14sp"
+            android:tag="1" >
+        </com.algha.nur.widget.UyghurTextView>
+
+        <com.algha.nur.widget.UyghurTextView
+            android:id="@+id/home"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center|center"
+            android:text="@string/home"
+            android:textColor="#757575"
+            android:textSize="14sp"
+            android:tag="0" >
+        </com.algha.nur.widget.UyghurTextView>
+    </LinearLayout>
+
+</LinearLayout>
